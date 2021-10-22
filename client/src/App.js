@@ -3,8 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div classname="App">
+    <div className="App">
       <h1>Sanctuary</h1>
+      <button className="btn btn-primary">Bootstrap button</button>
     </div>
   );
 }
