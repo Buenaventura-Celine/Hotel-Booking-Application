@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar'
 
 function App() {
   return (
     <div className="App">
-      <h1>Sanctuary</h1>
-      <button className="btn btn-primary">Bootstrap button</button>
+      <Navbar/>
     </div>
   );
 }
