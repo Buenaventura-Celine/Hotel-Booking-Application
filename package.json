@@ -1,0 +1,23 @@
+{
+  "name": "hotel-booking-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buenaventura-Celine/Hotel-Booking-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buenaventura-Celine/Hotel-Booking-Application/issues"
+  },
+  "homepage": "https://github.com/Buenaventura-Celine/Hotel-Booking-Application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
