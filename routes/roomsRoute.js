@@ -11,3 +11,5 @@ router.get('/getallrooms', async (req, res) => {
         return res.status(404).json({ message: error })
     }
 })
+
+module.exports = router
